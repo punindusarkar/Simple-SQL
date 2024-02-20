@@ -127,6 +127,9 @@ select * from student
 		5) DESC
 
 The table structure can be seen with the help of desc command.
+
+
+	this is the additon
 */
 
 select * from dumy
